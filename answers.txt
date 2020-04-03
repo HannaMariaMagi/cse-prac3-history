@@ -1,0 +1,23 @@
+--Number of commits.
+11
+
+--Last commit.
+2018-03-20 14:21:18
+
+--Author of commits.
+Stepan Bolotnikov <stjoopa@gmail.com>
+
+--Commits made with the SHA-1 hash 790a2aa.
+2580b48 (HEAD -> master, origin/master, origin/HEAD) Renamed file 3
+ea28d5d Removed configuration
+99aa66d Added file 1
+75312b8 Added unnecessary file
+8e77a76 Added file 2
+605bfe9 Added file 3
+8fe3c92 Modified configuration
+703bcbf Added course website URL to readme
+f4be9cc Added aliases to configuration
+cebfb97 Added local configuration data
+a69fcc3 Initial commit
+
+Could not find SHA-1 hash 790a2aa.
